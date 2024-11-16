@@ -17,6 +17,10 @@ int main(int argc, char* argv[])
 		{
 			std::cout << "piyo" << std::endl;
 		}
+		else
+		{
+			std::cout << i << std::endl;
+		}
 		//出力は以下の形式を使用してください
 		//std::cout << i << std::endl;		//数字を出力する
 		//std::cout << "hoge" << std::endl;	//文字列を出力する
